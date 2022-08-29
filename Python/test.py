@@ -1,4 +1,5 @@
 a = "Hello"
 b = "world"
-c = a +b
+c = a + b
 print(c)
+print(a)
